@@ -35,11 +35,26 @@ This program is a menu-oriented application for managing bank accounts. It allow
 3. Run the builder by double-clicking the `RoomBookingSystem.exe` file.
 
 ## Screenshots
+  
+  <div align="center">
+  <div>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.ibb.co/Rbzgx1T/1.png"></img>
+    <br>
+  
+   <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.ibb.co/Khwx3hq/Screenshot-1.png"></img>
 
-![Screenshot 1](<https://i.ibb.co/Rbzgx1T/1.png>)
-![Screenshot 2](<https://i.ibb.co/Khwx3hq/Screenshot-1.png>)
-![Screenshot 3](<https://i.ibb.co/zVR9R7b/Screenshot-2.png>)
-![Screenshot 4](<https://i.ibb.co/NWnc8sB/Screenshot-3.png>)
+   <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.ibb.co/zVR9R7b/Screenshot-2.png"></img>
+
+   <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.ibb.co/NWnc8sB/Screenshot-3.png"></img>
+
+  </div>
+  </div> 
+
+</p>
+
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+</p>
+<br>
 
 
 ---
